@@ -1,0 +1,34 @@
+.style {
+font-family: "Clear Sans";
+font-size: 1.5em;
+color: #AE0001;
+font-style: oblique;
+padding: 1em;
+}
+
+.shape {
+width: 25em;
+height: 3em;
+border: 0.1em solid #2c3e50;
+margin: 5em;
+line-height: 3em;
+text-align: center;
+}
+
+.decoration {
+text-decoration: underline;
+font-size: 1.2em;
+padding: 1em;
+width: 15em;
+}
+
+.color {
+color: #e74c3c;
+}
+
+.background {
+background-color: #ecf0f1;
+font-size: 1.2em;
+padding: 1em;
+width: 15em;
+}
